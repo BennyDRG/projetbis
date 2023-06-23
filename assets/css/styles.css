@@ -1,0 +1,20 @@
+#titre{
+    font-family: cursive;
+}
+
+/* _______________________________ */
+
+.section3{
+    padding: 1em;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+
+article > p{
+    font-size: small;
+}
+
+.icone{
+    font-size: xx-large;
+}
